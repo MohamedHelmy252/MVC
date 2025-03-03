@@ -1,0 +1,5 @@
+wwwroot\library\bootstrap\css\bootstrap.css
+wwwroot\library\bootstrap\css\bootstrap.min.css
+wwwroot\library\bootstrap\js\bootstrap.bundle.js
+wwwroot\library\bootstrap\js\bootstrap.bundle.min.js
+wwwroot\library\bootstrap\js\bootstrap.min.js

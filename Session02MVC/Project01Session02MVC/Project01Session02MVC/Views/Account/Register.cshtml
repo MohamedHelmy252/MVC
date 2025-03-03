@@ -1,0 +1,82 @@
+﻿
+@*افضل من اني اضع ال name space هنا اني اضعها  في view import *@
+ @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    @*الكود الذي أرسلته هو عبارة عن رابط إلى ملف    CSS الخاص بـ Bootstrap، *@
+    <link href="~/library/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+
+
+
+<body>
+
+    @*-----------------------------------------*@
+    @*Start Header*@
+    <nav>
+        <center>
+            @* <a class="btn btn-primary" href="/Home/Index">Home</a> *@
+            @* <a class="btn btn-danger" href="/Home/AboutUs">AboutUs</a> *@
+            @* <a class="btn btn-dark" href="/Home/Privacy">Privacy</a> *@
+            @* <a class="btn btn-info" href="/Home/ContactUs">ContactUs</a> *@
+
+
+            @* <a class="btn btn-danger" href="/Account/Login">LohIn</a> *@
+            @* <a class="btn btn-danger " href="/Account/Register">Register</a> *@
+
+
+            @*-----------------------------------------*@
+            <a class="btn btn-primary" asp-controller="Home" asp-action="Index">Home</a>
+            <a class="btn btn-danger" asp-controller="Home" asp-action="AboutUs">AboutUs</a>
+            <a class="btn btn-dark" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <a class="btn btn-info" asp-controller="Home" asp-action="ContactUs">ContactUs</a>
+
+
+            <a class="btn btn-danger" asp-controller="Account" asp-action="Login">LohIn</a>
+            <a class="btn btn-danger" asp-controller="Account" asp-action="Register">Register</a>
+
+
+
+
+
+        </center>
+    </nav>
+    @*End Header*@
+    @*-----------------------------------------*@
+
+
+
+
+
+
+
+
+    @*Start Body*@
+    <center>
+        <div class="mt-5 p-5 bg-primary text-white rounded">
+            <h1>Welcome Route "REGISTER Page"</h1>
+            <p>Group 01</p>
+        </div>
+    </center>
+    @*End Body*@
+
+
+
+    @*-----------------------------------------*@
+    @*Start Footer*@
+    <center>
+        <div>
+            <p>Copy Right &copy; @DateTime.Now.Year </p>
+        </div>
+    </center>
+    @*End Footer*@
+
+</body>
+</html>
