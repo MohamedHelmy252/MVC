@@ -37,8 +37,8 @@ namespace IKEA.DAL.Presistance.Data.Migrations
                     b.Property<int>("CreatedBy")
                         .HasColumnType("int");
 
-                    b.Property<DateOnly>("CreatedDate")
-                        .HasColumnType("date");
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<DateTime>("CreatedOn")
                         .ValueGeneratedOnAdd()
@@ -62,7 +62,7 @@ namespace IKEA.DAL.Presistance.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("departments");
+                    b.ToTable("Departments");
                 });
 #pragma warning restore 612, 618
         }

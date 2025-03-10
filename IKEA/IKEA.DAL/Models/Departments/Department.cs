@@ -10,7 +10,7 @@ namespace IKEA.DAL.Models.Departments
     {
         public string Code { get; set; } = null!;//Not Allow Null
         public string? Description { get; set; }
-        public DateOnly CreatedDate { get; set; }  
+        public DateTime CreatedDate { get; set; }  
 
     }
 }
