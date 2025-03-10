@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs c#\\MVC\\IKEA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.dal\\presistance\\repositories\\departments\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\presistance\\repositories\\departments\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.dal\\presistance\\repositories\\departments\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\presistance\\repositories\\departments\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\Departments\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Presistance\\Repositories\\Departments\\DepartmentRepository.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\Departments\\DepartmentRepository.cs",
+              "RelativeToolTip": "IKEA.DAL\\Presistance\\Repositories\\Departments\\DepartmentRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:59:41.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\Departments\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Presistance\\Repositories\\Departments\\IDepartmentRepository.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Repositories\\Departments\\IDepartmentRepository.cs",
+              "RelativeToolTip": "IKEA.DAL\\Presistance\\Repositories\\Departments\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:57:55.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
