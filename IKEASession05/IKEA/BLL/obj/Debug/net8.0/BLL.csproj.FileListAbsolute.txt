@@ -1,0 +1,15 @@
+E:\vs c#\MVC\IKEA\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\vs c#\MVC\IKEA\BLL\bin\Debug\net8.0\BLL.dll
+E:\vs c#\MVC\IKEA\BLL\bin\Debug\net8.0\BLL.pdb
+E:\vs c#\MVC\IKEA\BLL\bin\Debug\net8.0\IKEA.DAL.dll
+E:\vs c#\MVC\IKEA\BLL\bin\Debug\net8.0\IKEA.DAL.pdb
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\BLL.dll
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\BLL.pdb
+E:\vs c#\MVC\IKEA\BLL\obj\Debug\net8.0\ref\BLL.dll
