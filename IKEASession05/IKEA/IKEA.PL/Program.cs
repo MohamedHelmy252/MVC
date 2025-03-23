@@ -1,6 +1,7 @@
 using BLL.Services;
 using IKEA.DAL.Presistance.Data;
 using IKEA.DAL.Presistance.Repositories.Departments;
+using IKEA.DAL.Presistance.Repositories.Employee;
 using Microsoft.EntityFrameworkCore;
 
 namespace IKEA.PL
@@ -21,10 +22,15 @@ namespace IKEA.PL
 
 
             });
-            //Service PL
+            //Services
             builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
-
             builder.Services.AddScoped<IDepartmentServices, DepartmentServices>();
+
+            builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();    
+            
+
+
             #endregion
 
 
