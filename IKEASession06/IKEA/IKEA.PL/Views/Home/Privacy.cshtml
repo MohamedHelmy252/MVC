@@ -1,0 +1,229 @@
+﻿@{
+    ViewData["Title"] = "متجر الخضروات";
+}
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .title {
+            color: #2c3e50;
+        }
+
+        .product-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .product-card {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            width: 180px;
+        }
+
+        .product-img {
+            width: 100%;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+
+        .product-name {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        .product-price {
+            font-size: 16px;
+            color: #27ae60;
+            font-weight: bold;
+        }
+
+        .buy-btn {
+            background-color: #27ae60;
+            color: white;
+            border: none;
+            padding: 8px;
+            width: 100%;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+            .buy-btn:hover {
+                background-color: #219150;
+            }
+
+        .cart-btn {
+            margin-top: 20px;
+            background-color: #e67e22;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 50%;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .modal-content {
+            text-align: left;
+        }
+
+        .close {
+            float: right;
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+        .clear-btn {
+            background-color: #c0392b;
+            color: white;
+            border: none;
+            padding: 10px;
+            width: 100%;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+            .clear-btn:hover {
+                background-color: #a93226;
+            }
+    </style>
+</head>
+<body>
+
+    <h2 class="title">@ViewData["Title"]</h2>
+
+    <!-- عرض المنتجات -->
+    <div class="product-container">
+        @for (int i = 1; i <= 20; i++)
+        {
+            <div class="product-card">
+                <img src="https://source.unsplash.com/200x150/?vegetables&sig=@i" alt="Vegetable @i" class="product-img">
+                <h3 class="product-name">خضار رقم @i</h3>
+                <p class="product-price">@($"{(i + 1) * 5} جنيه")</p>
+                <button class="buy-btn" data-id="@i" data-name="خضار رقم @i" data-price="@((i + 1) * 5)">إضافة للسلة 🛒</button>
+            </div>
+        }
+    </div>
+
+    <!-- زر عرض السلة -->
+    <button class="cart-btn">🛒 عرض السلة (<span id="cart-count">0</span>)</button>
+
+    <!-- نافذة عرض السلة -->
+    <div id="cart-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>🛒 سلة التسوق</h2>
+            <ul id="cart-items"></ul>
+            <p><strong>الإجمالي:</strong> <span id="cart-total">0</span> جنيه</p>
+            <button class="clear-btn">🗑️ مسح السلة</button>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            updateCartCount();
+
+            // إضافة المنتجات عند النقر على زر "إضافة للسلة"
+            document.querySelectorAll(".buy-btn").forEach(button => {
+                button.addEventListener("click", function () {
+                    let id = this.getAttribute("data-id");
+                    let name = this.getAttribute("data-name");
+                    let price = parseFloat(this.getAttribute("data-price"));
+
+                    addToCart(id, name, price);
+                });
+            });
+
+            // فتح نافذة السلة
+            document.querySelector(".cart-btn").addEventListener("click", showCart);
+
+            // إغلاق نافذة السلة
+            document.querySelector(".close").addEventListener("click", closeCart);
+
+            // مسح السلة
+            document.querySelector(".clear-btn").addEventListener("click", clearCart);
+        });
+
+        function addToCart(id, name, price) {
+            let cart = JSON.parse(localStorage.getItem("cart")) || [];
+
+            let existingItem = cart.find(item => item.id === id);
+            if (existingItem) {
+                existingItem.quantity += 1;
+            } else {
+                cart.push({ id, name, price, quantity: 1 });
+            }
+
+            localStorage.setItem("cart", JSON.stringify(cart));
+            updateCartCount();
+        }
+
+        function updateCartCount() {
+            let cart = JSON.parse(localStorage.getItem("cart")) || [];
+            let totalCount = cart.reduce((sum, item) => sum + item.quantity, 0);
+            document.getElementById("cart-count").textContent = totalCount;
+        }
+
+        function showCart() {
+            let cart = JSON.parse(localStorage.getItem("cart")) || [];
+            let cartItems = document.getElementById("cart-items");
+            let cartTotal = document.getElementById("cart-total");
+
+            cartItems.innerHTML = "";
+            let total = 0;
+
+            cart.forEach(item => {
+                total += item.price * item.quantity;
+                let li = document.createElement("li");
+                li.textContent = `${item.name} - ${item.quantity} × ${item.price} جنيه`;
+                cartItems.appendChild(li);
+            });
+
+            cartTotal.textContent = total;
+            document.getElementById("cart-modal").style.display = "block";
+        }
+
+        function closeCart() {
+            document.getElementById("cart-modal").style.display = "none";
+        }
+
+        function clearCart() {
+            localStorage.removeItem("cart");
+            updateCartCount();
+            showCart();
+        }
+    </script>
+
+</body>
+</html>

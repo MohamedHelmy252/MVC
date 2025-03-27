@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vs c#\\MVC\\IKEA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.pl\\ikea.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\ikea.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0169D6C6-DFFC-4BE2-AAD9-CF3B1F2ED606}|BLL\\BLL.csproj|e:\\vs c#\\mvc\\ikea\\bll\\models\\employee\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0169D6C6-DFFC-4BE2-AAD9-CF3B1F2ED606}|BLL\\BLL.csproj|solutionrelative:bll\\models\\employee\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0169D6C6-DFFC-4BE2-AAD9-CF3B1F2ED606}|BLL\\BLL.csproj|e:\\vs c#\\mvc\\ikea\\bll\\models\\employee\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0169D6C6-DFFC-4BE2-AAD9-CF3B1F2ED606}|BLL\\BLL.csproj|solutionrelative:bll\\models\\employee\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0169D6C6-DFFC-4BE2-AAD9-CF3B1F2ED606}|BLL\\BLL.csproj|e:\\vs c#\\mvc\\ikea\\bll\\models\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0169D6C6-DFFC-4BE2-AAD9-CF3B1F2ED606}|BLL\\BLL.csproj|solutionrelative:bll\\models\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0169D6C6-DFFC-4BE2-AAD9-CF3B1F2ED606}|BLL\\BLL.csproj|e:\\vs c#\\mvc\\ikea\\bll\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0169D6C6-DFFC-4BE2-AAD9-CF3B1F2ED606}|BLL\\BLL.csproj|solutionrelative:bll\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1530D516-AF72-49C3-923B-9B6828AB018A}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.dal\\ikea.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\ikea.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.dal\\presistance\\migrations\\20250326201030_relationemployeedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\presistance\\migrations\\20250326201030_relationemployeedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.dal\\presistance\\data\\configurations\\departments\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\presistance\\data\\configurations\\departments\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.dal\\presistance\\data\\configurations\\employee\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\presistance\\data\\configurations\\employee\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.dal\\models\\departments\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\models\\departments\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|e:\\vs c#\\mvc\\ikea\\ikea.dal\\models\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D705AAC-677E-40C9-B671-C9113B390A5E}|IKEA.DAL\\IKEA.DAL.csproj|solutionrelative:ikea.dal\\models\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T22:43:32.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T22:39:58.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEmployeeDTO.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\BLL\\Models\\Employee\\UpdateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Employee\\UpdateEmployeeDTO.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\BLL\\Models\\Employee\\UpdateEmployeeDTO.cs",
+              "RelativeToolTip": "BLL\\Models\\Employee\\UpdateEmployeeDTO.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA/wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:37:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEmployeeDTO.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\BLL\\Models\\Employee\\CreateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Employee\\CreateEmployeeDTO.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\BLL\\Models\\Employee\\CreateEmployeeDTO.cs",
+              "RelativeToolTip": "BLL\\Models\\Employee\\CreateEmployeeDTO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:37:44.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T22:34:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\BLL\\Models\\Employee\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Employee\\EmployeeDTO.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\BLL\\Models\\Employee\\EmployeeDTO.cs",
+              "RelativeToolTip": "BLL\\Models\\Employee\\EmployeeDTO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:30:18.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKEA.PL",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\IKEA.PL.csproj",
+              "RelativeDocumentMoniker": "IKEA.PL\\IKEA.PL.csproj",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\IKEA.PL.csproj",
+              "RelativeToolTip": "IKEA.PL\\IKEA.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T22:26:04.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\BLL\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EmployeeService.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\BLL\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "BLL\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:28:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\Program.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Program.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\Program.cs",
+              "RelativeToolTip": "IKEA.PL\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:23:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IKEA.DAL",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj",
+              "RelativeDocumentMoniker": "IKEA.DAL\\IKEA.DAL.csproj",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj",
+              "RelativeToolTip": "IKEA.DAL\\IKEA.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T22:21:38.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250326201030_RelationEmployeeDepartment.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Migrations\\20250326201030_RelationEmployeeDepartment.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Presistance\\Migrations\\20250326201030_RelationEmployeeDepartment.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Migrations\\20250326201030_RelationEmployeeDepartment.cs",
+              "RelativeToolTip": "IKEA.DAL\\Presistance\\Migrations\\20250326201030_RelationEmployeeDepartment.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:10:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Data\\Configurations\\Departments\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Presistance\\Data\\Configurations\\Departments\\DepartmentConfiguration.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Data\\Configurations\\Departments\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "IKEA.DAL\\Presistance\\Data\\Configurations\\Departments\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:00:34.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Data\\Configurations\\Employee\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Presistance\\Data\\Configurations\\Employee\\EmployeeConfiguration.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Presistance\\Data\\Configurations\\Employee\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "IKEA.DAL\\Presistance\\Data\\Configurations\\Employee\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:58:43.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Models\\Departments\\Department.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Models\\Departments\\Department.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Models\\Departments\\Department.cs",
+              "RelativeToolTip": "IKEA.DAL\\Models\\Departments\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:52:46.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Models\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "IKEA.DAL\\Models\\Employees\\Employee.cs",
+              "ToolTip": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\Models\\Employees\\Employee.cs",
+              "RelativeToolTip": "IKEA.DAL\\Models\\Employees\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:50:46.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

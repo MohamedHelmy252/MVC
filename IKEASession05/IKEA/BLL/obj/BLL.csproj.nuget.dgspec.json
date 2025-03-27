@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\vs c#\\MVC\\IKEA\\BLL\\BLL.csproj": {}
+    "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "E:\\vs c#\\MVC\\IKEA\\BLL\\BLL.csproj": {
+    "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\vs c#\\MVC\\IKEA\\BLL\\BLL.csproj",
+        "projectUniqueName": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "E:\\vs c#\\MVC\\IKEA\\BLL\\BLL.csproj",
+        "projectPath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\ELNOOR\\.nuget\\packages\\",
-        "outputPath": "E:\\vs c#\\MVC\\IKEA\\BLL\\obj\\",
+        "outputPath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj": {
-                "projectPath": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj"
+              "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj": {
+                "projectPath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj": {
+    "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj",
+        "projectUniqueName": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj",
         "projectName": "IKEA.DAL",
-        "projectPath": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj",
+        "projectPath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj",
         "packagesPath": "C:\\Users\\ELNOOR\\.nuget\\packages\\",
-        "outputPath": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\obj\\",
+        "outputPath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

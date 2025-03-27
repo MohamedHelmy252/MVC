@@ -7805,11 +7805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\IKEA.PL.csproj",
+      "projectUniqueName": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.PL\\IKEA.PL.csproj",
       "projectName": "IKEA.PL",
-      "projectPath": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\IKEA.PL.csproj",
+      "projectPath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.PL\\IKEA.PL.csproj",
       "packagesPath": "C:\\Users\\ELNOOR\\.nuget\\packages\\",
-      "outputPath": "E:\\vs c#\\MVC\\IKEA\\IKEA.PL\\obj\\",
+      "outputPath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.PL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7830,8 +7830,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\vs c#\\MVC\\IKEA\\BLL\\BLL.csproj": {
-              "projectPath": "E:\\vs c#\\MVC\\IKEA\\BLL\\BLL.csproj"
+            "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\BLL\\BLL.csproj": {
+              "projectPath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\BLL\\BLL.csproj"
             }
           }
         }

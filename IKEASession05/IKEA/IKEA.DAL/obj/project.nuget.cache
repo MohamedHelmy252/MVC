@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QdHTOF3bIuY=",
+  "dgSpecHash": "RVHcOdAw3jg=",
   "success": true,
-  "projectFilePath": "E:\\vs c#\\MVC\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj",
+  "projectFilePath": "E:\\Git\\git\\MVC\\IKEASession05\\IKEA\\IKEA.DAL\\IKEA.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ELNOOR\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ELNOOR\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
