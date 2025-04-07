@@ -1,0 +1,12 @@
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.deps.json
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.dll
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\bin\Debug\net8.0\IKEA.DAL.pdb
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.AssemblyReference.cache
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfoInputs.cache
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.AssemblyInfo.cs
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.csproj.CoreCompileInputs.cache
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.dll
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\refint\IKEA.DAL.dll
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\IKEA.DAL.pdb
+F:\Route\Route C43\Mvc\G03MVCProjectC43\IKEA\IKEA.DAL\obj\Debug\net8.0\ref\IKEA.DAL.dll

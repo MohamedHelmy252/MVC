@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Route\\Route C43\\Mvc\\G03MVCProjectC43\\IKEA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6608DE-E6AA-4FCC-8F70-B9AC801DF322}|IKEA.PL\\IKEA.PL.csproj|f:\\route\\route c43\\mvc\\g03mvcprojectc43\\ikea\\ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6608DE-E6AA-4FCC-8F70-B9AC801DF322}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6608DE-E6AA-4FCC-8F70-B9AC801DF322}|IKEA.PL\\IKEA.PL.csproj|f:\\route\\route c43\\mvc\\g03mvcprojectc43\\ikea\\ikea.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6608DE-E6AA-4FCC-8F70-B9AC801DF322}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6608DE-E6AA-4FCC-8F70-B9AC801DF322}|IKEA.PL\\IKEA.PL.csproj|f:\\route\\route c43\\mvc\\g03mvcprojectc43\\ikea\\ikea.pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F6608DE-E6AA-4FCC-8F70-B9AC801DF322}|IKEA.PL\\IKEA.PL.csproj|solutionrelative:ikea.pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Route\\Route C43\\Mvc\\G03MVCProjectC43\\IKEA\\IKEA.PL\\Program.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Program.cs",
+              "ToolTip": "F:\\Route\\Route C43\\Mvc\\G03MVCProjectC43\\IKEA\\IKEA.PL\\Program.cs",
+              "RelativeToolTip": "IKEA.PL\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:51:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "F:\\Route\\Route C43\\Mvc\\G03MVCProjectC43\\IKEA\\IKEA.PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "IKEA.PL\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "F:\\Route\\Route C43\\Mvc\\G03MVCProjectC43\\IKEA\\IKEA.PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "IKEA.PL\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T00:48:18.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Route\\Route C43\\Mvc\\G03MVCProjectC43\\IKEA\\IKEA.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "IKEA.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\Route\\Route C43\\Mvc\\G03MVCProjectC43\\IKEA\\IKEA.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "IKEA.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwJoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:42:05.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
